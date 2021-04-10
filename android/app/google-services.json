@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "868891846310",
+    "project_id": "h_cube-7f033",
+    "storage_bucket": "h_cube-7f033.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868891846310:android:9105656224e7250d7b7667",
+        "android_client_info": {
+          "package_name": "it.quinck.h_cube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868891846310-hl40ad9u889iotfj8ipcqu0jqjiiucks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLm05LvHt0OGB52nb50-2UAfxdSB-9mPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868891846310-hl40ad9u889iotfj8ipcqu0jqjiiucks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
